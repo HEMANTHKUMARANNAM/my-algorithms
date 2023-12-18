@@ -47,3 +47,11 @@ public class bin
 
     }
 }
+
+
+// PS C:\Users\heman\Desktop\my algorithms> cd "c:\Users\heman\Desktop\my algorithms\" ; if ($?) { javac bin.java } ; if ($?) { java bin }
+// LIST = [8, 7, 5, 4, 3, 2, 1]
+// BIN 1 = 8 2
+// BIN 2 = 7 3
+// BIN 3 = 5 4 1
+// BINS REQUIRED IS 3
