@@ -1,1 +1,1 @@
-//jriowneuo
+THIS ARE MY ALGORITHMS
