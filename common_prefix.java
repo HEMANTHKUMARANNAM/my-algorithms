@@ -22,6 +22,8 @@ public class common_prefix
 
         System.out.println("Common String = " + Common_prefix(array) );
 
+        sc.close();
+
     }
 
     public static String Common_prefix(String array[])

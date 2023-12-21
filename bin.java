@@ -44,7 +44,6 @@ public class bin
 
         System.out.println("BINS REQUIRED IS " + bin);
 
-
     }
 }
 
