@@ -3,5 +3,4 @@
     {
         "**/*.class": true
     },
-    "C_Cpp.errorSquiggles": "disabled"
 }
