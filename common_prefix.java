@@ -56,7 +56,9 @@ public class common_prefix
             }
         }
 
-        return null;
+
+
+        return array[0];
     
     }
 
